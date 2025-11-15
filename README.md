@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍🎓 Student Management System
 
 A Python-based CLI tool to manage student records using JSON storage. Built for academic use, internship portfolios, and real-world learning.
@@ -143,3 +144,7 @@ Mentor: Parul Ma’am
 
 ## 📘 License
 This project is for academic and demonstration purposes only. All rights reserved by the author.
+=======
+# Student-Tracker
+Modular Python tool for student management with JSON storage, CSV export, and login system
+>>>>>>> b6a87614aede2fd8a95b1f01504e9aae3922d483
