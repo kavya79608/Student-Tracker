@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment files (if any)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Exported data
+students.csv
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Screenshot folder (optional)
+screenshots/

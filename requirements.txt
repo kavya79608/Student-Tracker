@@ -1,0 +1,14 @@
+# Core modules (standard library, no need to install)
+# json
+# os
+# datetime
+
+# Optional modules (if you use them)
+bcrypt        # For secure password hashing (used in auth.py upgrade)
+getpass       # For hidden password input (optional)
+
+# Testing
+unittest      # Built-in, no pip install needed
+
+# CSV export
+csv           # Built-in, no pip install needed

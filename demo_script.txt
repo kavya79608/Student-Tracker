@@ -1,0 +1,92 @@
+===========================================
+🎥 DEMO SCRIPT — Student Management System
+===========================================
+
+📁 Project Location:
+C:\Users\kavya rana\OneDrive\Desktop\StudentManagementSystem
+
+▶️ How to Run:
+Double-click `run.bat`
+OR
+Open CMD and run:
+cd "C:\Users\kavya rana\OneDrive\Desktop\StudentManagementSystem"
+python student_management_system.py
+
+-------------------------------------------
+🧑‍🎓 1. Add Student
+-------------------------------------------
+Enter your choice (1-7): 1
+
+Enter Student ID: BU2023UGBCA079
+Enter Student Name: Kavya Rana
+Enter Student Age: 20
+Enter Student Grade: Male
+Enter Subjects (comma separated, optional): Python, C++, DBMS, PHP, JAVA
+
+✅ Output:
+Student added successfully
+
+-------------------------------------------
+🔍 2. View Student
+-------------------------------------------
+Enter your choice (1-7): 2
+Enter Student ID to view: BU2023UGBCA079
+
+📋 Output:
+Student Details:
+ID: BU2023UGBCA079
+Name: Kavya Rana
+Age: 20
+Grade: Male
+Subjects: Python, C++, DBMS, PHP, JAVA
+Created At: 2025-11-15 13:22:47
+
+-------------------------------------------
+📋 5. List All Students
+-------------------------------------------
+Enter your choice (1-7): 5
+
+📊 Output:
+ID         Name                 Age   Grade      Subjects
+---------------------------------------------------------------
+BU2023UGBCA079 Kavya Rana         20    Male       Python, C++, DBMS...
+
+-------------------------------------------
+🔎 6. Search Students
+-------------------------------------------
+Enter your choice (1-7): 6
+Enter search term (name, ID, or grade): kavya
+
+📊 Output:
+Search Results for 'kavya':
+ID         Name                 Age   Grade      Subjects
+---------------------------------------------------------------
+BU2023UGBCA079 Kavya Rana         20    Male       Python, C++, DBMS...
+
+-------------------------------------------
+📤 8. Export to CSV
+-------------------------------------------
+Enter your choice (1-7): 8
+
+✅ Output:
+Student data exported to exports/students.csv
+
+-------------------------------------------
+❌ 4. Delete Student
+-------------------------------------------
+Enter your choice (1-7): 4
+Enter Student ID to delete: BU2023UGBCA079
+Are you sure you want to delete student BU2023UGBCA079? (y/n): y
+
+✅ Output:
+Student deleted successfully
+
+-------------------------------------------
+🚪 7. Exit
+-------------------------------------------
+Enter your choice (1-7): 7
+Thank you for using Student Management System!
+
+===========================================
+✅ End of Demo
+===========================================
