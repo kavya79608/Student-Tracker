@@ -65,25 +65,6 @@ StudentManagementSystem/
 
 ---
 
-## 📸 Screenshots
-
-### Project Folder
-![Folder Structure](screenshots/folder_structure.png)
-
-### CMD Execution
-![Run in CMD](screenshots/cmd_run.png)
-
-### JSON Data
-![Student JSON](screenshots/json_data.png)
-
-### List Students
-![List Output](screenshots/list_students.png)
-
-### Search Students
-![Search Output](screenshots/search_output.png)
-
----
-
 ## 🎥 Demo Script
 
 See `demo_script.txt` for full walkthrough:
