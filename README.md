@@ -142,5 +142,4 @@ Mentor: Parul Ma’am
 ---
 
 ## 📘 License
-
-This project is for academic and internship use. Free to modify and extend.
+This project is for academic and demonstration purposes only. All rights reserved by the author.
