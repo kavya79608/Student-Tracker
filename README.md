@@ -18,14 +18,6 @@ A Python-based CLI tool to manage student records using JSON storage. Built for 
 
 ---
 
-##  Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ##  How to Run
 
 ### Option 1: CMD
