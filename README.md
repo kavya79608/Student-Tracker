@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-# 🧑‍🎓 Student Management System
+#  Student Management System
 
 A Python-based CLI tool to manage student records using JSON storage. Built for academic use, internship portfolios, and real-world learning.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add, view, update, and delete student records
 - Search students by name, ID, or grade
@@ -18,7 +18,7 @@ A Python-based CLI tool to manage student records using JSON storage. Built for 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option 1: CMD
 
@@ -41,7 +41,7 @@ Run `run.bat` from the project folder
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 StudentManagementSystem/
@@ -65,7 +65,7 @@ StudentManagementSystem/
 
 ---
 
-## 🎥 Demo Script
+##  Demo Script
 
 See `demo_script.txt` for full walkthrough:
 - Add student
@@ -78,7 +78,7 @@ See `demo_script.txt` for full walkthrough:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run unit tests:
 
@@ -89,7 +89,7 @@ python -m unittest tests/test_system.py
 
 ---
 
-## 🔐 Admin Login (Optional)
+##  Admin Login (Optional)
 
 ```python
 from utils.auth import login
@@ -104,7 +104,7 @@ Default credentials:
 
 ---
 
-## 📤 Export to CSV
+##  Export to CSV
 
 ```python
 sms.export_to_csv()
@@ -114,7 +114,7 @@ File saved to: `exports/students.csv`
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Kavya Rana**  
 Roll No: BU2023UGBCA079  
@@ -123,7 +123,7 @@ Mentor: Parul Ma’am
 
 ---
 
-## 📘 License
+##  License
 This project is for academic and demonstration purposes only. All rights reserved by the author.
 =======
 # Student-Tracker
