@@ -18,5 +18,25 @@
             "hsdgcy hjhuvukhef vjkfuzhuk. ejzuhuk"
         ],
         "created_at": "2025-11-15 15:01:37"
+    },
+    "bu076": {
+        "student_id": "bu076",
+        "name": "Dhruv",
+        "age": 19,
+        "grade": "a+",
+        "subjects": [
+            "Python C++ c"
+        ],
+        "created_at": "2025-11-18 09:53:58"
+    },
+    "bu71": {
+        "student_id": "bu71",
+        "name": "Chetanya",
+        "age": 20,
+        "grade": "A+",
+        "subjects": [
+            "java python dbms"
+        ],
+        "created_at": "2025-11-18 21:54:16"
     }
 }
