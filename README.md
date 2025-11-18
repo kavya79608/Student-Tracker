@@ -45,7 +45,6 @@ StudentManagementSystem/
 ├── demo_script.txt                    # Sample walkthrough
 ├── .gitignore                         # Git exclusions
 │
-├── screenshots/                       # GitHub visuals
 ├── utils/                             # Login system
 │   └── auth.py
 ├── exports/                           # CSV exports
