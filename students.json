@@ -1,24 +1,4 @@
 {
-    "BU2023UGBCA079": {
-        "student_id": "BU2023UGBCA079",
-        "name": "Kavya Rana",
-        "age": 20,
-        "grade": "Male",
-        "subjects": [
-            "Python C++ DBMS PHP JAVA"
-        ],
-        "created_at": "2025-11-15 13:22:47"
-    },
-    "BU799": {
-        "student_id": "BU799",
-        "name": "kkkk",
-        "age": 90,
-        "grade": "female",
-        "subjects": [
-            "hsdgcy hjhuvukhef vjkfuzhuk. ejzuhuk"
-        ],
-        "created_at": "2025-11-15 15:01:37"
-    },
     "bu076": {
         "student_id": "bu076",
         "name": "Dhruv",
@@ -29,14 +9,14 @@
         ],
         "created_at": "2025-11-18 09:53:58"
     },
-    "bu71": {
-        "student_id": "bu71",
-        "name": "Chetanya",
+    "BU79": {
+        "student_id": "BU79",
+        "name": "Kavya",
         "age": 20,
-        "grade": "A+",
+        "grade": "O",
         "subjects": [
-            "java python dbms"
+            "Python Java C++ PHP"
         ],
-        "created_at": "2025-11-18 21:54:16"
+        "created_at": "2025-11-18 22:06:28"
     }
 }
